@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5ffb3eb8-dfb4-4684-94a5-78d4006c6779" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="24a20c41-ddde-4254-85db-e7674601236a" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="abbe03ad-b224-4d77-8d3b-ea5e064fc84b" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?xsd=xsd0" />
+    <MetadataFile FileName="item.wsdl" MetadataType="Wsdl" ID="94ef0231-77be-4443-a53c-973fa1304b04" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?wsdl=wsdl0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="6e8b820e-1366-478d-91fe-e4d0c2d7021a" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="df382888-4cc9-478e-bc45-b68835965e6b" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?disco" />
+    <MetadataFile FileName="CWebShop.wsdl" MetadataType="Wsdl" ID="f1f5fbdd-c042-4184-b749-b5867dc128de" SourceId="1" SourceUrl="http://localhost:9000/Design_Time_Addresses/csa_week_3_webshop/CWebShop/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

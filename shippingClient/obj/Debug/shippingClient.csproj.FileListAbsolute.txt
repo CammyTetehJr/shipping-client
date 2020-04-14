@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\shippingClient\shippingClient\bin\Debug\shippingClient.exe.config
+C:\Users\User\source\repos\shippingClient\shippingClient\bin\Debug\shippingClient.exe
+C:\Users\User\source\repos\shippingClient\shippingClient\bin\Debug\shippingClient.pdb
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.Form1.resources
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.Properties.Resources.resources
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.exe
+C:\Users\User\source\repos\shippingClient\shippingClient\obj\Debug\shippingClient.pdb
